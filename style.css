@@ -1,0 +1,58 @@
+body{
+  background-color:#0051ff;
+  width: 1000px;
+  margin: auto;
+}
+.page{
+  left:50%;
+  transform:translate(-50%,0);
+  position: relative;
+   border: 4px solid #000000;
+    background-color: #ffffff;
+
+      width: 90%;
+       height: 1350px;
+}
+.number{
+  color: #000000; text-align: center; font-family: courier; font-size: 100%;
+  position: absolute;
+  bottom: 10px;
+  left:50%;
+  transform:translate(-50%,0);
+}
+.big{
+    color: #000000;
+    font-family: courier;
+  font-size: 230%;
+}
+.small{
+  color: #000000;
+  font-family: courier;
+  font-size: 170%;
+}
+
+.verysmall{
+  color: #000000;
+  font-family: courier;
+  font-size: 130%;
+}
+.exercise{
+  vertical-align: top;
+  text-align:center;
+  padding:20px;
+}
+.exercise_label{
+  text-align:center;
+  width:250px;
+  margin:auto;
+  border:5px solid black;
+  padding:5px 20px;
+  font-size:40px;
+  font-family:courier;
+  background-color:white;
+}
+.exercise_info{
+transform:translate(0,-3px);
+margin-top:10px;
+
+}
