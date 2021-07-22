@@ -78,6 +78,9 @@ margin-top:10px;
   width: 700px;
   height: 500px;
 }
+td{
+  width:50%;
+}
  .explanation{
    text-family: courier;
    text-align: center;
